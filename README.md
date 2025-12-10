@@ -41,4 +41,4 @@ _Repo for the talk "A Journey into the heart of Emulation: Destination Game Boy"
 
 • Most console photos are my own, ask for permission before use
 
-. Logos and images are the property of their respective owners and are used here strictly for illustrative and educational purposes.
+• Logos and images are the property of their respective owners and are used here strictly for illustrative and educational purposes.
