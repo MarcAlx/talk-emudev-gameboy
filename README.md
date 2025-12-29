@@ -32,6 +32,11 @@ _Repo for the talk "A Journey into the heart of Emulation: Destination Game Boy"
 
 - [45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) - [[slides]()] - [[ref. 1](https://app.voxxr.in/events/snowcamp26/talks/21/details)] [[ref. 2](./references/SnowCamp%202026.png)] [[ref. 3](./references/SnowCamp%202026%20-%202.png)]
 
+## Resources
+
+• Emulation backend presented during this talk: [GBKit](https://github.com/MarcAlx/GBKit)
+
+• Emulation frontend presented during this talk: [gb](https://github.com/MarcAlx/gb)
 
 ## Credits
 
