@@ -2,10 +2,11 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-
 Dépôt contenant les slides de la présentation "Voyage au coeur de l'émulation : destination Game Boy".
 
 _Repo for the talk "A Journey into the heart of Emulation: Destination Game Boy" this repo is in french 🇫🇷._
+
+![](./images/heading.png)
 
 ## Abstract
 
