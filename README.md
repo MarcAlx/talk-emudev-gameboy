@@ -8,6 +8,8 @@ _Repo for the talk "A Journey into the heart of Emulation: Destination Game Boy"
 
 ![](./images/heading.png)
 
+🎞️ : *slides (au format PDF) disponibles :* [ici](./slides/snowcamp-2026/destination-gameboy.pdf)
+
 ## Abstract
 
 >Venez découvrir comment, au détour d'une vidéo YouTube sur l'émulation et d'un « mais ça, je peux le faire » , j'ai embarqué dans un voyage au croisement de l'informatique, de l'électronique, du gaming, de l'audio et même du droit.
@@ -31,7 +33,7 @@ _Repo for the talk "A Journey into the heart of Emulation: Destination Game Boy"
 
 ### SnowCamp 2026
 
-- [45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) - [[slides]()] - [[ref. 1](https://app.voxxr.in/events/snowcamp26/talks/21/details)] [[ref. 2](./references/SnowCamp%202026.png)] [[ref. 3](./references/SnowCamp%202026%20-%202.png)]
+- [45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) - [[slides](./slides//snowcamp-2026/destination-gameboy.pdf)] - [[ref. 1](https://app.voxxr.in/events/snowcamp26/talks/21/details)] [[ref. 2](./references/SnowCamp%202026.png)] [[ref. 3](./references/SnowCamp%202026%20-%202.png)]
 
 ## Resources
 
@@ -51,4 +53,4 @@ _Repo for the talk "A Journey into the heart of Emulation: Destination Game Boy"
 
 ## Sidenotes
 
-_n.b slides are created with Apple Keynote (.key file), Microsoft PowerPoint version provided for compatibility purpose._
+_n.b slides are created with Apple Keynote (.key file), Microsoft PowerPoint version (.pptx file) provided for compatibility purpose._
