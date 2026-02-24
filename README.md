@@ -33,7 +33,7 @@ _Repo for the talk "A Journey into the heart of Emulation: Destination Game Boy"
 
 ### MiXiT 2026
 
-- [45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — [updated slides coming soon!] — [[ref. 1](https://mixitconf.org/en/2026/voyage-au-coeur-de-l-emulation-destination-game-boy)] [[ref. 2](./references/MiXiT%202026.png)]
+- [45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — [replay **coming soon!**] — [updated slides **coming soon!**] — [[ref. 1](https://mixitconf.org/en/2026/voyage-au-coeur-de-l-emulation-destination-game-boy)] [[ref. 2](./references/MiXiT%202026.png)]
 
 ### SnowCamp 2026
 
