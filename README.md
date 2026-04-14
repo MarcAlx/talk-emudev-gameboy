@@ -33,11 +33,11 @@ _Repo for the talk "A Journey into the heart of Emulation: Destination Game Boy"
 
 ### MiXiT 2026
 
-- [45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — [replay **coming soon!**] — [updated slides **coming soon!**] — [[ref. 1](https://mixitconf.org/en/2026/voyage-au-coeur-de-l-emulation-destination-game-boy)] [[ref. 2](./references/MiXiT%202026.png)]
+- [45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — [replay **coming soon!**] — [[slides](./slides/mixit-2026/destination-gameboy.pdf)]  — [[ref. 1](https://mixitconf.org/en/2026/voyage-au-coeur-de-l-emulation-destination-game-boy)] [[ref. 2](./references/MiXiT%202026.png)]
 
 ### SnowCamp 2026
 
-- [45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — ([3.67 / 4⭐️](./references/feedback-snowcamp2026-summary.png)) — [[slides](./slides//snowcamp-2026/destination-gameboy.pdf)] — [[ref. 1](https://app.voxxr.in/events/snowcamp26/talks/21/details)] [[ref. 2](./references/SnowCamp%202026.png)] [[ref. 3](./references/SnowCamp%202026%20-%202.png)]
+- [45 min] **Voyage au coeur de l'émulation : destination Game Boy** (_A Journey into the heart of Emulation: Destination Game Boy_) — ([3.67 / 4⭐️](./references/feedback-snowcamp2026-summary.png)) — [[slides](./slides/snowcamp-2026/destination-gameboy.pdf)] — [[ref. 1](https://app.voxxr.in/events/snowcamp26/talks/21/details)] [[ref. 2](./references/SnowCamp%202026.png)] [[ref. 3](./references/SnowCamp%202026%20-%202.png)]
 
 ## Resources
 
