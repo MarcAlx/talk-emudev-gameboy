@@ -8,7 +8,7 @@ _Repo for the talk "A Journey into the heart of Emulation: Destination Game Boy"
 
 ![](./images/heading.png)
 
-🎞️ : *slides (au format PDF) disponibles :* [ici](./slides/snowcamp-2026/destination-gameboy.pdf)
+🎞️ : *slides (au format PDF) disponibles :* [ici](./slides/mixit-2026/destination-gameboy.pdf)
 
 ## Abstract
 
